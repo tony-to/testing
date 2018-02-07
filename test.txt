@@ -1,1 +1,2 @@
-Testing git commit
+Testing remove text
+Testing git commnt 2
