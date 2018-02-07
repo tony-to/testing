@@ -3,3 +3,4 @@ Testing git commit 2
 Testing git commit 3
 Testing git rebase
 Testing git rebase in branch
+Testing git reset
