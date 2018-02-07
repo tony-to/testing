@@ -1,3 +1,5 @@
 Testing remove text
 Testing git commit 2
-Testing git commit 3
+<<<<<<< HEAD
+=======
+>>>>>>> test_branch
