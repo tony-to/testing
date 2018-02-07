@@ -6,3 +6,4 @@ Testing git rebase in branch
 Testing git reset
 Testing git command
 Testing git rebase
+Testing git commit 4
